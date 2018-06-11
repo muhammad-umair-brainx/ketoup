@@ -1,0 +1,15 @@
+<svg id="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.403 15.403">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #363035;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(0 0)">
+    <g id="Group_5" data-name="Group 5">
+      <path id="Path_14" data-name="Path 14" class="cls-1" d="M13.818,12.6,18.4,17.19,17.19,18.4,12.6,13.818A6.006,6.006,0,1,1,13.818,12.6ZM9.007,13.3A4.291,4.291,0,1,0,4.716,9.007,4.291,4.291,0,0,0,9.007,13.3Z" transform="translate(-3 -3)"/>
+    </g>
+  </g>
+</svg>
