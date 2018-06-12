@@ -77,6 +77,14 @@
     }
 }
 
+@media screen and (max-width: 1300px) {
+    .child-nav{
+        width: 85% !important;
+        margin: auto;
+    }
+}
+
+
 .header {
     background-color: #F8F9FA;
 }
@@ -412,4 +420,9 @@ a:hover{
 }
 .nav-btn a:hover{
     color: white;
+}
+
+.child-nav{
+    width: 84%;
+    margin: auto;
 }
