@@ -276,8 +276,7 @@
     font-weight: 900;
     top: 5px;
     right: 5px;
-
-    /*margin-left: 70%;*/
+    cursor: pointer;
 }
 
 
@@ -402,4 +401,15 @@ a{
 }
 a:hover{
     text-decoration: none !important;
+}
+
+.login p,.cart p{
+    color: black;
+}
+
+.nav-btn a{
+    color: white;
+}
+.nav-btn a:hover{
+    color: white;
 }
