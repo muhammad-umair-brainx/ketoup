@@ -47,7 +47,9 @@
 
     }
 
-
+.header-child{
+    background-color: white;
+}
 
     .search {
         margin-left: 35% !important;
@@ -81,6 +83,10 @@
     .child-nav{
         width: 85% !important;
         margin: auto;
+    }
+
+    .search input{
+        width: 85% !important;
     }
 }
 
@@ -273,7 +279,7 @@
     border-left: none;
     border-right: none;
     border-top: none;
-    width: 190px;
+    width: 100%;
     float: right;
 }
 
